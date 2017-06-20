@@ -177,7 +177,7 @@
           "_name": "extCountdown2",
           "_anchor": "extCountdown2-6",
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "2",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": false,
