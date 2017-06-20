@@ -248,7 +248,7 @@
           },
           "_anchor": "features3-v",
           "_params": {
-            "paddingTop": 2,
+            "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
