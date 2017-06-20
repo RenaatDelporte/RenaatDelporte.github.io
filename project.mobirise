@@ -597,7 +597,7 @@
             }
           },
           "title": "Benieuwd naar het parcours?",
-          "text": "HWil je het parcours meer in detail bekijken?&nbsp;<br>Klik dan &nbsp;hieronder!<br>",
+          "text": "Wil je het parcours meer in detail bekijken?&nbsp;<br>Klik dan &nbsp;hieronder!<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.google.com/maps/d/viewer?mid=1st__Qmx3Ic478eKPyY4Cg34AJ6k&amp;ll=50.9752433712985%2C3.9561570000000756&amp;z=16\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Parcours Wanzele Loopt</a>"
         }
       ]
