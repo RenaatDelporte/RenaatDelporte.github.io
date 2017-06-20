@@ -390,10 +390,10 @@
             "image": {
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/facebook-logo-thumbs-up-like-transparent-svg-1400x1162.png",
-              "link": "",
+              "link": "https://www.facebook.com/WanzeleLoopt/?ref=br_rs",
               "alt": "",
               "title": "",
-              "linkInNewWindow": false,
+              "linkInNewWindow": true,
               "active": true
             },
             "video": {
