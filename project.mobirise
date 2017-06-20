@@ -579,10 +579,10 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/small-parcours-1400x933.png",
-              "link": "",
+              "link": "https://www.google.com/maps/d/viewer?mid=1st__Qmx3Ic478eKPyY4Cg34AJ6k&ll=50.9752433712985%2C3.9561570000000756&z=16",
               "alt": "",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
