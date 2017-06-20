@@ -541,7 +541,7 @@
           "_name": "content1",
           "_anchor": "content1-p",
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "2",
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
