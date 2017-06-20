@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 31,
+    "uniqCompNum": 32,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -124,7 +124,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fotos.html\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures12-5\">INFO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-u\">PARCOURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fotos.html\">VORIGE EDITIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\" https://openentry.riytechnologies.com/nl//?id=fqH7g1IUTUiGYn-c9WmohA\">INSCHRIJVEN</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fotos.html\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures12-5\">INFO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-u\">PARCOURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fotos.html\">VORIGE EDITIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content1-p\">FAQ's</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\" https://openentry.riytechnologies.com/nl//?id=fqH7g1IUTUiGYn-c9WmohA\">INSCHRIJVEN</a></li>"
         },
         {
           "_tags": [
@@ -177,7 +177,7 @@
           "_name": "extCountdown2",
           "_anchor": "extCountdown2-6",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": false,
@@ -234,157 +234,129 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
-          "_styles": {
-            ".card-number": {
-              "color": "@primaryColor"
-            },
-            ".mbr-iconfont-features4": {
-              "color": "undefined !important"
-            },
-            ".wraper": {
-              "border-color": "undefined !important"
-            },
-            "H3": {
-              "color": "#41a85f"
-            },
-            ".card-subtitle": {
-              "text-align": "left"
-            }
-          },
-          "alias": "mobirise3-blocks/components",
           "_tags": [
-            "Extension"
+            "Theme"
           ],
-          "_name": "extFeatures12",
-          "_anchor": "extFeatures12-5",
+          "_name": "features3",
+          "_anchor": "features3-v",
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
-            "numbersColor": "@primaryColor",
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures4_bg.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#fff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.6,
+            "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": 3,
+            "columns": 4,
             "showImages": true,
             "showTitles": true,
-            "showSubtitles": true,
+            "showSubtitles": false,
             "ShowTexts": true,
             "showButtons": false
           },
           "media1": {
             "image": {
+              "src": "@PROJECT_PATH@/assets/images/wanzele-loopt-3-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
               "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/wanzele-loopt-1400x934.jpg",
               "link": "",
-              "alt": "Wanzele loopt",
-              "title": "Kids",
+              "alt": "",
+              "title": "",
               "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 0
             }
           },
-          "number1": "",
-          "title1": "<br><br><br>Kids Run",
-          "subtitle1": "",
-          "caption1": "Jong geleerd is oud gedaan. En dat is ook bij Wanzele loopt zo.&nbsp;Voor de kleinsten starten we om 18u30 met de Kids Run!<br><br><br><b>Daginschrijving</b>: 17u00<br><b>Locatie</b>: VBS Wanzele - Wanzele dorp 7",
+          "title1": "Wandelaars",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Is lopen niets voor jou maar wil je toch het sfeervolle parcours mee beleven ? <br><br><br><br><br><b>Daginschrijving</b>: 20u30<br><b>Locatie</b>: VBS Wanzele - Wanzele d<br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
+              "src": "@PROJECT_PATH@/assets/images/wanzele-loopt-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
               "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/wanzele-loopt-1-1400x934.jpg",
               "link": "",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 0
             }
           },
-          "number2": "",
-          "title2": "<br><br><br>5 km Run",
-          "subtitle2": "",
-          "caption2": "'Mens sana in corpore sano' of eerder 'een gezonde geest in een gezond lichaam. Iedereen die het wil kan zeker en vast meedoen aan de 5 km Run!<br><br><b>Daginschrijving</b>: 18u30<br><b>Locatie</b>: VBS Wanzele - Wanzele dorp 7<br>",
+          "title2": "Kids Run",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Jong geleerd is oud gedaan. En dat is ook bij Wanzele loopt zo. Voor de kleinsten starten we om 18u30 met de Kids Run!<br><br><br><b>Daginschrijving</b>: 18u30<br><b>Locatie</b>: VBS Wanzele - Wanzele dorp<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
+              "src": "@PROJECT_PATH@/assets/images/wanzele-loopt-1-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
               "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/wanzele-loopt-2-1400x934.jpg",
               "link": "",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 0
             }
           },
-          "number3": "",
-          "title3": "<br><br><br>10 km Run",
-          "subtitle3": "",
-          "caption3": "Voor de echte sportievelingen is er de 10 km Run. Je moet ietsje meer doorzettingsvermogen tonen maar de supporters langs de kant schreeuwen jou tot het einde!<br><br><b>Daginschrijving</b>: 18u30<br><b>Locatie</b>: VBS Wanzele - Wanzele dorp 7<br>",
+          "title3": "5 km Run",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "'Mens sana in corpore sano' of eerder 'een gezonde geest in een gezond lichaam. Iedereen die het wil kan zeker en vast meedoen aan de 5 km Run!<br><br><b>Daginschrijving</b>: 19u30<br><b>Locatie</b>: VBS Wanzele - Wanzele dorp<br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
+              "src": "@PROJECT_PATH@/assets/images/wanzele-loopt-2-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
               "active": true,
-              "width": 1400,
-              "src": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures12_2.jpg"
-            },
-            "video": {
-              "active": false,
-              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
               "link": "",
-              "size": 0
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "number4": "04",
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "title4": "10 km Run",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Voor de echte sportievelingen is er de 10 km Run. Je moet ietsje meer doorzettingsvermogen tonen maar de supporters langs de kant schreeuwen jou tot het einde!<br><br><b>Daginschrijving</b>: 20u30<br><b>Locatie</b>: VBS Wanzele - Wanzele dorp<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "H4": {
+              "text-align": "left"
+            }
+          }
         },
         {
           "_tags": [
@@ -573,58 +545,6 @@
           "title": "Benieuwd naar het parcours?",
           "text": "HWil je het parcours meer in detail bekijken?&nbsp;<br>Klik dan &nbsp;hieronder!<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.google.com/maps/d/viewer?mid=1st__Qmx3Ic478eKPyY4Cg34AJ6k&amp;ll=50.9752433712985%2C3.9561570000000756&amp;z=16\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Parcours Wanzele Loopt</a>"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-t",
-          "_params": {
-            "imageSize": 50,
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "width": 1280,
-              "height": 720,
-              "url": "https://www.youtube.com/embed/ui1W4H81vtw?rel=0&amp;showinfo=0&autoplay=0&loop=0"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#fff",
-            "inverse": true,
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
-            },
-            "video": {
-              "active": true,
-              "src": "https://www.youtube.com/watch?v=ui1W4H81vtw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "Het Wanzele Loopt parcours in beeld.",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         }
       ]
     },
@@ -719,7 +639,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fotos.html\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures12-5\">INFO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-u\">PARCOURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fotos.html\">VORIGE EDITIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">INSCHRIJVEN</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fotos.html\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures12-5\">INFO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-u\">PARCOURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fotos.html\">VORIGE EDITIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content1-p\">FAQ's</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\" https://openentry.riytechnologies.com/nl//?id=fqH7g1IUTUiGYn-c9WmohA\">INSCHRIJVEN</a></li>"
         },
         {
           "_styles": {
@@ -968,7 +888,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fotos.html\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures12-5\">INFO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-u\">PARCOURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fotos.html\">VORIGE EDITIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">INSCHRIJVEN</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fotos.html\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures12-5\">INFO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-u\">PARCOURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fotos.html\">VORIGE EDITIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content1-p\">FAQ's</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\" https://openentry.riytechnologies.com/nl//?id=fqH7g1IUTUiGYn-c9WmohA\">INSCHRIJVEN</a></li>"
         },
         {
           "_tags": [

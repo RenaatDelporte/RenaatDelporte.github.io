@@ -751,19 +751,10 @@ h6,
 #msg-box8-a .mbr-section-title {
   color: #ffffff;
 }
-#extFeatures12-5 .card-number {
-  color: #00a885;
+#features3-v P {
+  text-align: left;
 }
-#extFeatures12-5 .mbr-iconfont-features4 {
-  color: undefined !important;
-}
-#extFeatures12-5 .wraper {
-  border-color: undefined !important;
-}
-#extFeatures12-5 H3 {
-  color: #41a85f;
-}
-#extFeatures12-5 .card-subtitle {
+#features3-v H4 {
   text-align: left;
 }
 #header3-r .mbr-section-title,
