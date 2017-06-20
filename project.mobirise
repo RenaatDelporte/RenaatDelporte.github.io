@@ -238,6 +238,14 @@
             "Theme"
           ],
           "_name": "features3",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "H4": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "features3-v",
           "_params": {
             "paddingTop": 2,
@@ -275,7 +283,7 @@
           },
           "title1": "Wandelaars",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Is lopen niets voor jou maar wil je toch het sfeervolle parcours mee beleven ? <br><br><br><br><br><b>Daginschrijving</b>: 20u30<br><b>Locatie</b>: VBS Wanzele - Wanzele d<br>",
+          "caption1": "Is lopen niets voor jou maar wil je toch het sfeervolle parcours mee beleven ? <br><br><br><br><br><b>Daginschrijving</b>: 18u30<br><b>Start</b>: 20u30<br><b>Locatie</b>: VBS Wanzele - Wanzele dorp<br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
@@ -291,7 +299,7 @@
           },
           "title2": "Kids Run",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Jong geleerd is oud gedaan. En dat is ook bij Wanzele loopt zo. Voor de kleinsten starten we om 18u30 met de Kids Run!<br><br><br><b>Daginschrijving</b>: 18u30<br><b>Locatie</b>: VBS Wanzele - Wanzele dorp<br>",
+          "caption2": "Jong geleerd is oud gedaan. En dat is ook bij Wanzele loopt zo. Voor de kleinsten starten we om 18u30 met de Kids Run!<br><br><br><b>Daginschrijving</b>: 17u00<b><br></b><b>Start</b>: 18u30<br><b>Locatie</b>: VBS Wanzele - Wanzele dorp<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
@@ -307,7 +315,7 @@
           },
           "title3": "5 km Run",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "'Mens sana in corpore sano' of eerder 'een gezonde geest in een gezond lichaam. Iedereen die het wil kan zeker en vast meedoen aan de 5 km Run!<br><br><b>Daginschrijving</b>: 19u30<br><b>Locatie</b>: VBS Wanzele - Wanzele dorp<br>",
+          "caption3": "'Mens sana in corpore sano' of eerder 'een gezonde geest in een gezond lichaam. Iedereen die het wil kan zeker en vast meedoen aan de 5 km Run!<br><span style=\"font-size: 1rem; line-height: 1.5;\"><br></span><b>Daginschrijving</b>: 18u30<br><b>Start</b><span style=\"font-size: 1rem; line-height: 1.5;\">: 19u30</span><br><b>Locatie</b>: VBS Wanzele - Wanzele dorp<br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
@@ -323,7 +331,7 @@
           },
           "title4": "10 km Run",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Voor de echte sportievelingen is er de 10 km Run. Je moet ietsje meer doorzettingsvermogen tonen maar de supporters langs de kant schreeuwen jou tot het einde!<br><br><b>Daginschrijving</b>: 20u30<br><b>Locatie</b>: VBS Wanzele - Wanzele dorp<br>",
+          "caption4": "Voor de echte sportievelingen is er de 10 km Run. Je moet ietsje meer doorzettingsvermogen tonen maar de supporters langs de kant schreeuwen jou tot het einde!<br><br><b>Daginschrijving</b>: 18u30<b><br></b><b>Start</b>: 20u30<br><b>Locatie</b>: VBS Wanzele - Wanzele dorp<br>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
@@ -348,15 +356,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            },
-            "H4": {
-              "text-align": "left"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_inherit": "msg-box5",
