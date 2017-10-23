@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Alain Van den Vreken - Containers",
-    "currentPage": "page10.html",
+    "currentPage": "page11.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -11,7 +11,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 49,
+    "uniqCompNum": 57,
     "versionPublish": "4.2.3",
     "path": "@PROJECT_PATH@",
     "favicon": "",
@@ -42,7 +42,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page2.html\" aria-expanded=\"false\">CONTAINER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Grond</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Steenpuin</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Hout</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">Metalen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Gemengd afval</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">GROND- EN LOONWERKEN</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"true\">FOURAGE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.vandenvreken.be\" aria-expanded=\"false\" target=\"_blank\">SLAGERIJ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"page10.html\">OFFERTE</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page2.html\" aria-expanded=\"false\">CONTAINER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Grond</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Steenpuin</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Hout</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">Metalen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Gemengd afval</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">GRONDWERKEN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">LOONWERKEN</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">FOURAGE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.vandenvreken.be\" aria-expanded=\"false\" target=\"_blank\">SLAGERIJ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"page10.html\">OFFERTE</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -102,7 +102,7 @@
           },
           "title": "Groep Van Den Vreken",
           "text": "",
-          "buttons": "  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Containers</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">Grond- en loonwerken</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">Fourage</a>",
+          "buttons": "  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Containers</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">Grondwerken</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">Loonwerken</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">Fourage</a>",
           "_tags": [
             "Theme"
           ],
@@ -140,7 +140,7 @@
             }
           },
           "text1": "<strong>FACTURATIE ADRES</strong><br>Jules De Buckstraat 6<br>9280 Lebbeke<br>",
-          "text2": "<b>FACTURATIE ADRES<br></b>Fortstraat 46<br>9280 Lebbeke<br>",
+          "text2": "<b>BEDRIJFSADRES<br></b>Fortstraat 46<br>9280 Lebbeke<br>",
           "text3": "<ul class=\"mbr-contacts__list\"><li><b>CONTACT</b></li><li>Alain@groepVanDenVreken.be</li><li>0478/59 94 13</li><li>0892.728.216</li></ul>",
           "_tags": [
             "Theme"
@@ -187,7 +187,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "CONTACT",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -203,7 +203,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page2.html\" aria-expanded=\"false\">CONTAINER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Grond</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Steenpuin</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Hout</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">Metalen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Gemengd afval</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">GROND- EN LOONWERKEN</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"true\">FOURAGE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.vandenvreken.be\" aria-expanded=\"false\" target=\"_blank\">SLAGERIJ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"page10.html\">OFFERTE</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page2.html\" aria-expanded=\"false\">CONTAINER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Grond</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Steenpuin</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Hout</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">Metalen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Gemengd afval</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">GRONDWERKEN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">LOONWERKEN</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">FOURAGE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.vandenvreken.be\" aria-expanded=\"false\" target=\"_blank\">SLAGERIJ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"page10.html\">OFFERTE</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -270,7 +270,7 @@
             }
           },
           "text1": "<strong>FACTURATIE ADRES</strong><br>Jules De Buckstraat 6<br>9280 Lebbeke<br>",
-          "text2": "<b>FACTURATIE ADRES<br></b>Fortstraat 46<br>9280 Lebbeke<br>",
+          "text2": "<b>BEDRIJFSADRES<br></b>Fortstraat 46<br>9280 Lebbeke<br>",
           "text3": "<ul class=\"mbr-contacts__list\"><li><b>CONTACT</b></li><li>Alain@groepVanDenVreken.be</li><li>0478/59 94 13</li><li>0892.728.216</li></ul>",
           "_tags": [
             "Theme"
@@ -292,7 +292,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "CONTAINERS",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -308,7 +308,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page2.html\" aria-expanded=\"false\">CONTAINER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Grond</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Steenpuin</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Hout</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">Metalen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Gemengd afval</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">GROND- EN LOONWERKEN</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"true\">FOURAGE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.vandenvreken.be\" aria-expanded=\"false\" target=\"_blank\">SLAGERIJ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"page10.html\">OFFERTE</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page2.html\" aria-expanded=\"false\">CONTAINER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Grond</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Steenpuin</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Hout</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">Metalen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Gemengd afval</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">GRONDWERKEN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">LOONWERKEN</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">FOURAGE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.vandenvreken.be\" aria-expanded=\"false\" target=\"_blank\">SLAGERIJ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"page10.html\">OFFERTE</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -541,7 +541,7 @@
             }
           },
           "text1": "<strong>FACTURATIE ADRES</strong><br>Jules De Buckstraat 6<br>9280 Lebbeke<br>",
-          "text2": "<b>FACTURATIE ADRES<br></b>Fortstraat 46<br>9280 Lebbeke<br>",
+          "text2": "<b>BEDRIJFSADRES<br></b>Fortstraat 46<br>9280 Lebbeke<br>",
           "text3": "<ul class=\"mbr-contacts__list\"><li><b>CONTACT</b></li><li>Alain@groepVanDenVreken.be</li><li>0478/59 94 13</li><li>0892.728.216</li></ul>",
           "_tags": [
             "Theme"
@@ -562,8 +562,8 @@
     "page3.html": {
       "settings": {
         "meta_descr": "Web Page Maker Description",
-        "title": "GROND- EN LOONWERKEN",
-        "order": 8
+        "title": "GRONDWERKEN",
+        "order": 9
       },
       "components": [
         {
@@ -579,7 +579,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page2.html\" aria-expanded=\"false\">CONTAINER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Grond</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Steenpuin</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Hout</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">Metalen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Gemengd afval</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">GROND- EN LOONWERKEN</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"true\">FOURAGE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.vandenvreken.be\" aria-expanded=\"false\" target=\"_blank\">SLAGERIJ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"page10.html\">OFFERTE</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page2.html\" aria-expanded=\"false\">CONTAINER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Grond</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Steenpuin</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Hout</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">Metalen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Gemengd afval</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">GRONDWERKEN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">LOONWERKEN</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">FOURAGE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.vandenvreken.be\" aria-expanded=\"false\" target=\"_blank\">SLAGERIJ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"page10.html\">OFFERTE</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -617,6 +617,53 @@
           "_anchor": "dropdown-menu-2btn-8"
         },
         {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": false,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": 0.2
+          },
+          "title": "GRONDWERKEN",
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_anchor": "content5-1e"
+        },
+        {
           "_inherit": "features1",
           "_params": {
             "showHeader": false,
@@ -664,8 +711,8 @@
               "size": 0
             }
           },
-          "title1": "TUIN",
-          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title1": "UITGRAVEN",
+          "caption1": "Opritten en terreinen uitgraven, bouwrijp maken van gronden,...",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -684,8 +731,8 @@
               "size": 0
             }
           },
-          "title2": "OPRIT",
-          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title2": "AFBRAAK",
+          "caption2": "Kleine- en grote huizen, stallen, industriebouw,...",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -704,8 +751,8 @@
               "size": 0
             }
           },
-          "title3": "AFSLUITING",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title3": "OPRITTEN",
+          "caption3": "Wij graven uw oprit uit en leggen ook meteen een nieuwe!",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -724,8 +771,8 @@
               "size": 0
             }
           },
-          "title4": "UNLIMITED WEBSITES",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title4": "TUINEN",
+          "caption4": "zwemvijvers, vijvers, put voor een trampoline,...",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
             "image": {
@@ -744,8 +791,8 @@
               "size": 0
             }
           },
-          "title5": "TRENDY WEBSITE BLOCKS",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title5": "AFSLUITINGEN",
+          "caption5": "Huis- en tuinafsluitingen, industriële afsluitingen,...",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media6": {
             "image": {
@@ -768,7 +815,12 @@
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "_name": "content4",
-          "_anchor": "content4-l"
+          "_anchor": "content4-l",
+          "_styles": {
+            ".mbr-section__col .mbr-header__text": {
+              "text-align": "left"
+            }
+          }
         },
         {
           "_params": {
@@ -800,7 +852,7 @@
             }
           },
           "text1": "<strong>FACTURATIE ADRES</strong><br>Jules De Buckstraat 6<br>9280 Lebbeke<br>",
-          "text2": "<b>FACTURATIE ADRES<br></b>Fortstraat 46<br>9280 Lebbeke<br>",
+          "text2": "<b>BEDRIJFSADRES<br></b>Fortstraat 46<br>9280 Lebbeke<br>",
           "text3": "<ul class=\"mbr-contacts__list\"><li><b>CONTACT</b></li><li>Alain@groepVanDenVreken.be</li><li>0478/59 94 13</li><li>0892.728.216</li></ul>",
           "_tags": [
             "Theme"
@@ -822,7 +874,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "FOURAGE",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -838,7 +890,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page2.html\" aria-expanded=\"false\">CONTAINER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Grond</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Steenpuin</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Hout</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">Metalen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Gemengd afval</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">GROND- EN LOONWERKEN</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"true\">FOURAGE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.vandenvreken.be\" aria-expanded=\"false\" target=\"_blank\">SLAGERIJ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"page10.html\">OFFERTE</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page2.html\" aria-expanded=\"false\">CONTAINER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Grond</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Steenpuin</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Hout</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">Metalen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Gemengd afval</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">GRONDWERKEN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">LOONWERKEN</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">FOURAGE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.vandenvreken.be\" aria-expanded=\"false\" target=\"_blank\">SLAGERIJ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"page10.html\">OFFERTE</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -876,158 +928,59 @@
           "_anchor": "dropdown-menu-2btn-a"
         },
         {
-          "_inherit": "features1",
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
           "_params": {
-            "showHeader": false,
-            "showSubheader": false,
-            "showImages": false,
-            "showTitles": true,
-            "showCaptions": true,
-            "showButtons": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": false,
+            "showButton": false,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "columns": 5,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/737-2000x1333.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": 0.2
           },
+          "title": "FOURAGE",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
           ],
-          "headerAlign": "left",
-          "header": "DROP-DEAD EASY WEBSITE MAKER",
-          "subheader": "By John Smith posted July 30, 2015",
-          "media1": {
-            "image": {
-              "active": true,
-              "src": "images/bootstrap.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title1": "VOORDROOG",
-          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media2": {
-            "image": {
-              "active": true,
-              "src": "images/responsive.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title2": "HOOI",
-          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media3": {
-            "image": {
-              "active": true,
-              "src": "images/google-fonts.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title3": "MAÏS",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media4": {
-            "image": {
-              "active": true,
-              "src": "images/unlimited-websites.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title4": "STRO",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media5": {
-            "image": {
-              "active": true,
-              "src": "images/blocks.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title5": "TRENDY WEBSITE BLOCKS",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media6": {
-            "image": {
-              "active": true,
-              "src": "images/host.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title6": "HOST ANYWHERE",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "_name": "content4",
-          "_anchor": "content4-1b"
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_anchor": "content5-1d"
+        },
+        {
+          "text": "<p>Voor fourage werken wij meestal op bestelling. De klant kan kiezen welk formaat hij maar wil. Afhalen en aflevering voor alle fourage producten.</p><p>- Mini rechthoekige balen<br>- Grote rechthoekige balen<br>- Ronde balen (diameter 125)<br>- Droogte- of vochtigheidsgraad</p><p><b>MAÏS:</b></p><p>- Grote balen (115 diameter)<br>- Kleine balen (85 diameter)<br><br><b>TARWESTRO</b></p><p>- Afmetingen 240 X 120 X 70</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1k"
         },
         {
           "_params": {
@@ -1059,7 +1012,7 @@
             }
           },
           "text1": "<strong>FACTURATIE ADRES</strong><br>Jules De Buckstraat 6<br>9280 Lebbeke<br>",
-          "text2": "<b>FACTURATIE ADRES<br></b>Fortstraat 46<br>9280 Lebbeke<br>",
+          "text2": "<b>BEDRIJFSADRES<br></b>Fortstraat 46<br>9280 Lebbeke<br>",
           "text3": "<ul class=\"mbr-contacts__list\"><li><b>CONTACT</b></li><li>Alain@groepVanDenVreken.be</li><li>0478/59 94 13</li><li>0892.728.216</li></ul>",
           "_tags": [
             "Theme"
@@ -1081,7 +1034,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "GROND",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -1097,7 +1050,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page2.html\" aria-expanded=\"false\">CONTAINER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Grond</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Steenpuin</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Hout</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">Metalen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Gemengd afval</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">GROND- EN LOONWERKEN</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"true\">FOURAGE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.vandenvreken.be\" aria-expanded=\"false\" target=\"_blank\">SLAGERIJ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"page10.html\">OFFERTE</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page2.html\" aria-expanded=\"false\">CONTAINER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Grond</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Steenpuin</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Hout</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">Metalen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Gemengd afval</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">GRONDWERKEN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">LOONWERKEN</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">FOURAGE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.vandenvreken.be\" aria-expanded=\"false\" target=\"_blank\">SLAGERIJ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"page10.html\">OFFERTE</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1211,7 +1164,7 @@
             }
           },
           "text1": "<strong>FACTURATIE ADRES</strong><br>Jules De Buckstraat 6<br>9280 Lebbeke<br>",
-          "text2": "<b>FACTURATIE ADRES<br></b>Fortstraat 46<br>9280 Lebbeke<br>",
+          "text2": "<b>BEDRIJFSADRES<br></b>Fortstraat 46<br>9280 Lebbeke<br>",
           "text3": "<ul class=\"mbr-contacts__list\"><li><b>CONTACT</b></li><li>Alain@groepVanDenVreken.be</li><li>0478/59 94 13</li><li>0892.728.216</li></ul>",
           "_tags": [
             "Theme"
@@ -1233,7 +1186,7 @@
       "settings": {
         "meta_descr": "Web Creator Description",
         "title": "STEENPUIN",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -1249,7 +1202,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page2.html\" aria-expanded=\"false\">CONTAINER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Grond</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Steenpuin</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Hout</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">Metalen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Gemengd afval</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">GROND- EN LOONWERKEN</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"true\">FOURAGE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.vandenvreken.be\" aria-expanded=\"false\" target=\"_blank\">SLAGERIJ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"page10.html\">OFFERTE</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page2.html\" aria-expanded=\"false\">CONTAINER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Grond</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Steenpuin</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Hout</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">Metalen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Gemengd afval</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">GRONDWERKEN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">LOONWERKEN</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">FOURAGE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.vandenvreken.be\" aria-expanded=\"false\" target=\"_blank\">SLAGERIJ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"page10.html\">OFFERTE</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1360,7 +1313,7 @@
             }
           },
           "text1": "<strong>FACTURATIE ADRES</strong><br>Jules De Buckstraat 6<br>9280 Lebbeke<br>",
-          "text2": "<b>FACTURATIE ADRES<br></b>Fortstraat 46<br>9280 Lebbeke<br>",
+          "text2": "<b>BEDRIJFSADRES<br></b>Fortstraat 46<br>9280 Lebbeke<br>",
           "text3": "<ul class=\"mbr-contacts__list\"><li><b>CONTACT</b></li><li>Alain@groepVanDenVreken.be</li><li>0478/59 94 13</li><li>0892.728.216</li></ul>",
           "_tags": [
             "Theme"
@@ -1382,7 +1335,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "HOUT",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -1398,7 +1351,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page2.html\" aria-expanded=\"false\">CONTAINER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Grond</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Steenpuin</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Hout</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">Metalen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Gemengd afval</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">GROND- EN LOONWERKEN</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"true\">FOURAGE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.vandenvreken.be\" aria-expanded=\"false\" target=\"_blank\">SLAGERIJ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"page10.html\">OFFERTE</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page2.html\" aria-expanded=\"false\">CONTAINER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Grond</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Steenpuin</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Hout</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">Metalen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Gemengd afval</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">GRONDWERKEN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">LOONWERKEN</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">FOURAGE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.vandenvreken.be\" aria-expanded=\"false\" target=\"_blank\">SLAGERIJ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"page10.html\">OFFERTE</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1509,7 +1462,7 @@
             }
           },
           "text1": "<strong>FACTURATIE ADRES</strong><br>Jules De Buckstraat 6<br>9280 Lebbeke<br>",
-          "text2": "<b>FACTURATIE ADRES<br></b>Fortstraat 46<br>9280 Lebbeke<br>",
+          "text2": "<b>BEDRIJFSADRES<br></b>Fortstraat 46<br>9280 Lebbeke<br>",
           "text3": "<ul class=\"mbr-contacts__list\"><li><b>CONTACT</b></li><li>Alain@groepVanDenVreken.be</li><li>0478/59 94 13</li><li>0892.728.216</li></ul>",
           "_tags": [
             "Theme"
@@ -1531,7 +1484,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "METALEN",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -1547,7 +1500,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page2.html\" aria-expanded=\"false\">CONTAINER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Grond</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Steenpuin</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Hout</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">Metalen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Gemengd afval</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">GROND- EN LOONWERKEN</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"true\">FOURAGE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.vandenvreken.be\" aria-expanded=\"false\" target=\"_blank\">SLAGERIJ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"page10.html\">OFFERTE</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page2.html\" aria-expanded=\"false\">CONTAINER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Grond</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Steenpuin</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Hout</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">Metalen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Gemengd afval</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">GRONDWERKEN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">LOONWERKEN</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">FOURAGE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.vandenvreken.be\" aria-expanded=\"false\" target=\"_blank\">SLAGERIJ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"page10.html\">OFFERTE</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1658,7 +1611,7 @@
             }
           },
           "text1": "<strong>FACTURATIE ADRES</strong><br>Jules De Buckstraat 6<br>9280 Lebbeke<br>",
-          "text2": "<b>FACTURATIE ADRES<br></b>Fortstraat 46<br>9280 Lebbeke<br>",
+          "text2": "<b>BEDRIJFSADRES<br></b>Fortstraat 46<br>9280 Lebbeke<br>",
           "text3": "<ul class=\"mbr-contacts__list\"><li><b>CONTACT</b></li><li>Alain@groepVanDenVreken.be</li><li>0478/59 94 13</li><li>0892.728.216</li></ul>",
           "_tags": [
             "Theme"
@@ -1680,7 +1633,7 @@
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "GEMENGD AFVAL",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -1696,7 +1649,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page2.html\" aria-expanded=\"false\">CONTAINER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Grond</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Steenpuin</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Hout</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">Metalen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Gemengd afval</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">GROND- EN LOONWERKEN</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"true\">FOURAGE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.vandenvreken.be\" aria-expanded=\"false\" target=\"_blank\">SLAGERIJ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"page10.html\">OFFERTE</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page2.html\" aria-expanded=\"false\">CONTAINER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Grond</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Steenpuin</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Hout</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">Metalen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Gemengd afval</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">GRONDWERKEN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">LOONWERKEN</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">FOURAGE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.vandenvreken.be\" aria-expanded=\"false\" target=\"_blank\">SLAGERIJ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"page10.html\">OFFERTE</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1770,7 +1723,7 @@
           "title": "GEMENGD AFVAL",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p><b>Wat mag er wel in de container?<br></b>Bouw- en sloopafval, materialen van kunststof, plastic, hout, karton en papier, schroot, metalen, ijzer en textiel.<br><br></p><p><b>Wat mag er niet in de container?<br></b>Asbesthoudende materialen, roofing, eternit, teerhoudend asfalt, ytong, KGA, verfpotten, glas, vervuilde grond, boomstammen, autobanden of elektrische toestellen.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page10.html\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page10.html\" data-toolbar=\"-mbrBtnMove\">OFFERTE AANVRAGEN</a>",
           "_tags": [
             "Theme"
           ],
@@ -1807,7 +1760,7 @@
             }
           },
           "text1": "<strong>FACTURATIE ADRES</strong><br>Jules De Buckstraat 6<br>9280 Lebbeke<br>",
-          "text2": "<b>FACTURATIE ADRES<br></b>Fortstraat 46<br>9280 Lebbeke<br>",
+          "text2": "<b>BEDRIJFSADRES<br></b>Fortstraat 46<br>9280 Lebbeke<br>",
           "text3": "<ul class=\"mbr-contacts__list\"><li><b>CONTACT</b></li><li>Alain@groepVanDenVreken.be</li><li>0478/59 94 13</li><li>0892.728.216</li></ul>",
           "_tags": [
             "Theme"
@@ -1829,7 +1782,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "OFFERTE_CONTAINER",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -1845,7 +1798,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page2.html\" aria-expanded=\"false\">CONTAINER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Grond</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Steenpuin</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Hout</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">Metalen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Gemengd afval</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">GROND- EN LOONWERKEN</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"true\">FOURAGE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.vandenvreken.be\" aria-expanded=\"false\" target=\"_blank\">SLAGERIJ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"page10.html\">OFFERTE</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page2.html\" aria-expanded=\"false\">CONTAINER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Grond</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Steenpuin</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Hout</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">Metalen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Gemengd afval</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">GRONDWERKEN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">LOONWERKEN</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">FOURAGE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.vandenvreken.be\" aria-expanded=\"false\" target=\"_blank\">SLAGERIJ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"page10.html\">OFFERTE</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1885,7 +1838,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<div class=\"typeform-widget\" data-url=\"https://renaatdelporte.typeform.com/to/LrkGfV\" style=\"width: 100%; height: 500px;\"> </div> {JS_CODE_0} <div style=\"font-family: Sans-Serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 5px;\"> powered by <a href=\"https://www.typeform.com/examples/?utm_campaign=LrkGfV&amp;utm_source=typeform.com-10465518-Basic&amp;utm_medium=typeform&amp;utm_content=typeform-embedded-poweredbytypeform&amp;utm_term=NL\" style=\"color: #999\" target=\"_blank\">Typeform</a> </div>",
+          "_customHTML": "<div class=\"typeform-widget\" data-url=\"https://renaatdelporte.typeform.com/to/XMBQhw\" style=\"width: 100%; height: 500px;\"> </div> {JS_CODE_0} <div style=\"font-family: Sans-Serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 5px;\"> powered by <a href=\"https://www.typeform.com/examples/?utm_campaign=XMBQhw&amp;utm_source=typeform.com-10465518-Basic&amp;utm_medium=typeform&amp;utm_content=typeform-embedded-poweredbytypeform&amp;utm_term=NL\" style=\"color: #999\" target=\"_blank\">Typeform</a> </div>",
           "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
           "alias": "code-editor",
           "_tags": [
@@ -1928,7 +1881,7 @@
             }
           },
           "text1": "<strong>FACTURATIE ADRES</strong><br>Jules De Buckstraat 6<br>9280 Lebbeke<br>",
-          "text2": "<b>FACTURATIE ADRES<br></b>Fortstraat 46<br>9280 Lebbeke<br>",
+          "text2": "<b>BEDRIJFSADRES<br></b>Fortstraat 46<br>9280 Lebbeke<br>",
           "text3": "<ul class=\"mbr-contacts__list\"><li><b>CONTACT</b></li><li>Alain@groepVanDenVreken.be</li><li>0478/59 94 13</li><li>0892.728.216</li></ul>",
           "_tags": [
             "Theme"
@@ -1968,6 +1921,346 @@
             }
           },
           "_anchor": "footer1-16"
+        }
+      ]
+    },
+    "page11.html": {
+      "settings": {
+        "meta_descr": "Web Site Generator Description",
+        "title": "LOONWERKEN",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#4c6972",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page2.html\" aria-expanded=\"false\">CONTAINER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Grond</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Steenpuin</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Hout</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">Metalen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Gemengd afval</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">GRONDWERKEN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">LOONWERKEN</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">FOURAGE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.vandenvreken.be\" aria-expanded=\"false\" target=\"_blank\">SLAGERIJ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"page10.html\">OFFERTE</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#4c6972"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#445e66"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Groep Van Den Vreken</a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-1f"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "3",
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/ogmt9z0-1999x1334.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": "0.2"
+          },
+          "title": "LOONWERKEN",
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_anchor": "content5-1i"
+        },
+        {
+          "_inherit": "features1",
+          "_params": {
+            "showHeader": false,
+            "showSubheader": false,
+            "showImages": false,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": 5,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "images/bootstrap.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "MAAIEN",
+          "caption1": "Maaien, schudden, harken van gras (grote oppvervlakken)",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "images/responsive.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "STALMEST",
+          "caption2": "Stalmest spreiden",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/20160923-600x337.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "ALLES ROND DE WEIDE",
+          "caption3": "Kalken, herzaaien, sproeien van onkruid, enz...",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "images/unlimited-websites.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "FREZEN",
+          "caption4": "Frezen, rotoreggen",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "PLOEGEN",
+          "caption5": "Grote oppervlakken ploegen,...",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_name": "content4",
+          "_anchor": "content4-1j",
+          "_styles": {
+            ".mbr-section__col .mbr-header__text": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#4c6972",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "images/footer-logo.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "setting",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "active": true
+            }
+          },
+          "text1": "<strong>FACTURATIE ADRES</strong><br>Jules De Buckstraat 6<br>9280 Lebbeke<br>",
+          "text2": "<b>BEDRIJFSADRES<br></b>Fortstraat 46<br>9280 Lebbeke<br>",
+          "text3": "<ul class=\"mbr-contacts__list\"><li><b>CONTACT</b></li><li>Alain@groepVanDenVreken.be</li><li>0478/59 94 13</li><li>0892.728.216</li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            },
+            "UL": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts1-1g"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#4c6972",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2017 <a href=\"http://www.renaatdelporte.be\" target=\"_blank\" class=\"text-white\">Renaat Delporte</a>. <a class=\"mbr-footer__link text-white\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-white\" href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "footer1-1h"
         }
       ]
     }
