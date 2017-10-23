@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Alain Van den Vreken - Containers",
-    "currentPage": "page2.html",
+    "currentPage": "page10.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -1817,7 +1817,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "OFFERTE_CONTAINER",
-        "order": 2
+        "order": 1
       },
       "components": [
         {
@@ -1833,7 +1833,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page2.html\" aria-expanded=\"false\">CONTAINER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Grond</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Steenpuin</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Hout</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">Metalen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Gemengd afval</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">GRONDWERKEN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">LOONWERKEN</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">FOURAGE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.vandenvreken.be\" aria-expanded=\"false\" target=\"_blank\">SLAGERIJ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"page10.html\">OFFERTE</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page2.html\" aria-expanded=\"false\">CONTAINER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Grond</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Steenpuin</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Hout</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">Metalen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Gemengd afval</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">GROND- EN LOONWERKEN</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"true\">FOURAGE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.vandenvreken.be\" aria-expanded=\"false\" target=\"_blank\">SLAGERIJ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"page10.html\">OFFERTE</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1916,7 +1916,7 @@
             }
           },
           "text1": "<strong>FACTURATIE ADRES</strong><br>Jules De Buckstraat 6<br>9280 Lebbeke<br>",
-          "text2": "<b>BEDRIJFSADRES<br></b>Fortstraat 46<br>9280 Lebbeke<br>",
+          "text2": "<b>FACTURATIE ADRES<br></b>Fortstraat 46<br>9280 Lebbeke<br>",
           "text3": "<ul class=\"mbr-contacts__list\"><li><b>CONTACT</b></li><li>Alain@groepVanDenVreken.be</li><li>0478/59 94 13</li><li>0892.728.216</li></ul>",
           "_tags": [
             "Theme"
