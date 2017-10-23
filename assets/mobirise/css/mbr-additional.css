@@ -73,6 +73,17 @@
 #dropdown-menu-2btn-6 .navbar-toggler {
   color: #ffffff;
 }
+#content5-1l .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-1l .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-1l .mbr-article {
+  color: #fff;
+}
 #contacts1-7 P {
   color: #ffffff;
 }
