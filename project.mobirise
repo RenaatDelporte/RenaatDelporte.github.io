@@ -1873,7 +1873,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<iframe src=\"https://docs.google.com/forms/d/e/1FAIpQLSfXKBxwNk9l8jRBi1KSG8qv3nIXgqHutyE-O9awok7W_uJrNw/viewform?embedded=true\" width=\"760\" height=\"500\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\">Bezig met laden...</iframe>",
+          "_customHTML": "<div class=\"typeform-widget\" data-url=\"https://renaatdelporte.typeform.com/to/XMBQhw\" style=\"width: 100%; height: 500px;\"> </div> {JS_CODE_0} <div style=\"font-family: Sans-Serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 5px;\"> powered by <a href=\"https://www.typeform.com/examples/?utm_campaign=XMBQhw&amp;utm_source=typeform.com-10465518-Basic&amp;utm_medium=typeform&amp;utm_content=typeform-embedded-poweredbytypeform&amp;utm_term=NL\" style=\"color: #999\" target=\"_blank\">Typeform</a> </div>",
           "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
           "alias": "code-editor",
           "_tags": [
@@ -1882,7 +1882,9 @@
           "_name": "pro.custom-html",
           "_anchor": "custom-html-18",
           "_PHPplaceholders": [],
-          "_JSplaceholders": []
+          "_JSplaceholders": [
+            "<script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id=\"typef_orm\", b=\"https://embed.typeform.com/\"; if(!gi.call(d,id)) { js=ce.call(d,\"script\"); js.id=id; js.src=b+\"embed.js\"; q=gt.call(d,\"script\")[0]; q.parentNode.insertBefore(js,q) } })() </script>"
+          ]
         },
         {
           "_params": {
