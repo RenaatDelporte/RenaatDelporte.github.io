@@ -1687,7 +1687,7 @@ body {
   cursor: default;
   opacity: 1;
   margin: 0;
-  padding: 12px 6px 12px;
+  padding: 12px 0px 12px;
   overflow: visible;
   border-top: 4px solid;
   border-right: 0 solid;
@@ -1715,7 +1715,7 @@ body {
   overflow: hidden;
 }
 .cid-qK1NbTmUGw P {
-  color: #232323;
+  color: #1a1a1a;
 }
 .cid-qK1NbTmUGw test {
   display: block;
@@ -1821,8 +1821,11 @@ body {
   padding-bottom: 300px;
   background-image: url("../../../assets/images/4-2000x1333.jpg");
 }
-.cid-qKe4fxn7QZ {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #2e2e2e;
+.cid-qKe9uTUt6b {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-qKe9uTUt6b .mbr-section-subtitle {
+  color: #767676;
 }
