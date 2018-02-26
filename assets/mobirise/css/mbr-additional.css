@@ -3111,6 +3111,91 @@ body {
     font-size: 40% !important;
   }
 }
+.cid-qKLXhvaw5E {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-qKLXhvaw5E .card-box {
+  background-color: #ffffff;
+  padding: 2rem;
+}
+.cid-qKLXhvaw5E h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  box-sizing: content-box;
+  cursor: default;
+  opacity: 1;
+  margin: 0;
+  padding: 12px 0px 12px;
+  overflow: visible;
+  border-top: 4px solid;
+  border-right: 0 solid;
+  border-bottom: 4px solid;
+  border-left: 0 solid;
+}
+.cid-qKLXhvaw5E p {
+  color: #767676;
+  text-align: left;
+}
+.cid-qKLXhvaw5E .card-wrapper {
+  position: relative;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-qKLXhvaw5E .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+.cid-qKLXhvaw5E .card-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+}
+.cid-qKLXhvaw5E P {
+  color: #1a1a1a;
+}
+.cid-qKLXhvaw5E test {
+  display: block;
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  float: none;
+  z-index: auto;
+  width: auto;
+  height: auto;
+  position: static;
+  cursor: default;
+  opacity: 1;
+  margin: 0;
+  padding: 12px 6px 12px;
+  overflow: visible;
+  border-top: 4px solid;
+  border-right: 0 solid;
+  border-bottom: 4px solid;
+  border-left: 0 solid;
+  -webkit-border-radius: 0;
+  border-radius: 0;
+  font: normal normal bold 30px "quicksand", Helvetica, sans-serif;
+  color: black;
+  -o-text-overflow: ellipsis;
+  text-overflow: ellipsis;
+  background: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  text-shadow: none;
+  -webkit-transition: none;
+  -moz-transition: none;
+  -o-transition: none;
+  transition: none;
+  -webkit-transform: none;
+  transform: none;
+  -webkit-transform-origin: 50% 50% 0;
+  transform-origin: 50% 50% 0;
+}
 .cid-qKFRFzFTOl {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -3572,6 +3657,91 @@ body {
   -o-text-overflow: ellipsis;
   text-overflow: ellipsis;
   letter-spacing: 3px;
+  background: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  text-shadow: none;
+  -webkit-transition: none;
+  -moz-transition: none;
+  -o-transition: none;
+  transition: none;
+  -webkit-transform: none;
+  transform: none;
+  -webkit-transform-origin: 50% 50% 0;
+  transform-origin: 50% 50% 0;
+}
+.cid-qKLYlKJwsY {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-qKLYlKJwsY .card-box {
+  background-color: #ffffff;
+  padding: 2rem;
+}
+.cid-qKLYlKJwsY h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  box-sizing: content-box;
+  cursor: default;
+  opacity: 1;
+  margin: 0;
+  padding: 12px 0px 12px;
+  overflow: visible;
+  border-top: 4px solid;
+  border-right: 0 solid;
+  border-bottom: 4px solid;
+  border-left: 0 solid;
+}
+.cid-qKLYlKJwsY p {
+  color: #767676;
+  text-align: left;
+}
+.cid-qKLYlKJwsY .card-wrapper {
+  position: relative;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-qKLYlKJwsY .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+.cid-qKLYlKJwsY .card-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+}
+.cid-qKLYlKJwsY P {
+  color: #1a1a1a;
+}
+.cid-qKLYlKJwsY test {
+  display: block;
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  float: none;
+  z-index: auto;
+  width: auto;
+  height: auto;
+  position: static;
+  cursor: default;
+  opacity: 1;
+  margin: 0;
+  padding: 12px 6px 12px;
+  overflow: visible;
+  border-top: 4px solid;
+  border-right: 0 solid;
+  border-bottom: 4px solid;
+  border-left: 0 solid;
+  -webkit-border-radius: 0;
+  border-radius: 0;
+  font: normal normal bold 30px "quicksand", Helvetica, sans-serif;
+  color: black;
+  -o-text-overflow: ellipsis;
+  text-overflow: ellipsis;
   background: none;
   -webkit-box-shadow: none;
   box-shadow: none;
